@@ -10,7 +10,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "components/bootstrap": "3.2.0"
+    "components/bootstrap": "*"
   },
   "styles": [
     "css/bootstrap.css",
